@@ -10,6 +10,8 @@ Colour-coded Tajweed Mushaf pages (KFGQPC V4, Madani layout, 604 pages) as ready
 
 **Languages:** [English](#english) · [Русский](#русский)
 
+> Need the plain Mushaf, without tajweed colours? → [SakinaDevGroup/mushaf-madani-cdn](https://github.com/SakinaDevGroup/mushaf-madani-cdn) — the same pages, same size and URL scheme, black on white and white on dark.
+
 ---
 
 ## English
